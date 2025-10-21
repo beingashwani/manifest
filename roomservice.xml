@@ -16,6 +16,4 @@
   <project path="kernel/xiaomi/sm8635-modules" name="kernel_xiaomi_sm8635-modules" remote="peridot" />
   <project path="kernel/xiaomi/sm8635-devicetrees" name="kernel_xiaomi_sm8635-devicetrees" remote="peridot" />
 
-  <project path="vendor/lineage-priv" name="vendor_lineage-priv" revision="main" remote="peridot" />  
-
 </manifest>
